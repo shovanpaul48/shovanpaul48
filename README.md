@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shovanpaul
+- 👋 Hi, I’m Shovan Paul
 - 👀 I’m interested in new technologies , computer vision , AI etc.
 - 🌱 I’m currently learning  computer vision
 - 💞️ I’m looking to collaborate on 
