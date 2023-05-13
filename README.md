@@ -15,9 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shovansundarpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shovansundarpaul" height="30" width="40" /></a>
-<a href="https://fb.com/shovansundarpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shovansundarpaul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shovan-sundar-paul-7b6a891b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shovan-sundar-paul-7b6a891b1" height="30" width="40" /></a>
+<a href="https://fb.com/shovansundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shovansundar" height="30" width="40" /></a>
 <a href="https://instagram.com/shovan__paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shovan__paul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shovanpaul48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shovanpaul48" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shovanpaul48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shovanpaul48" height="30" width="40" /></a>
 </p>
 
