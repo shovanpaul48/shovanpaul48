@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shovanpaul48" alt="shovanpaul48" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Vision, Deep Learnig**
+- 🌱 I’m currently learning **Dev Ops**
 
 - 👨‍💻 Few of my projects are available at [https://shovanpaul48.github.io/MyPortfolio/](https://shovanpaul48.github.io/MyPortfolio/)
 
